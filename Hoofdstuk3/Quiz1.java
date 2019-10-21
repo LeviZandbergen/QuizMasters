@@ -5,6 +5,7 @@ public class Quiz1{
 	{
 		int i = 2;
 		
+//		New ifstatement prints N when i is 2
 		if(i == 2) 
 		{
 			System.out.print("N");
